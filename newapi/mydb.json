@@ -1,0 +1,34 @@
+{
+  "characters": [
+    {
+      "name": "ichigo",
+      "age": "30",
+      "type": "fighter",
+      "id": "ch1"
+    },
+    {
+      "id": "ch2",
+      "name": "byakuya",
+      "age": "46",
+      "type": "captain"
+    },
+    {
+      "name": "kurotsuchi",
+      "age": "50",
+      "type": "captain",
+      "id": "ch3"
+    },
+    {
+      "id": "ch4",
+      "name": "zaraki",
+      "age": "66",
+      "type": "monster"
+    },
+    {
+      "id": "ch5",
+      "name": "zangetsu",
+      "age": "100",
+      "type": "soul"
+    }
+  ]
+}

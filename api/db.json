@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "anshuman",
+      "email": "abcd  @gmail.com",
+      "age": 30
+    },
+    {
+      "name": "jiraiya",
+      "email": "js@gmail.com",
+      "age": 50
+    },
+    {
+      "name": "naruto",
+      "email": "naruto@gmail.com",
+      "age": 20
+    }
+  ]
+}
